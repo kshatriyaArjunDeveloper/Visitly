@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "550708530895",
+    "firebase_url": "https://visitly-ae7b8.firebaseio.com",
+    "project_id": "visitly-ae7b8",
+    "storage_bucket": "visitly-ae7b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550708530895:android:b15314785f1529e82bb1ba",
+        "android_client_info": {
+          "package_name": "com.example.visitly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550708530895-savvtbntmbjidupr2mfdsu9oi1v2u05u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.visitly",
+            "certificate_hash": "5ecf260e46d501a118fe499580f03247181c6aba"
+          }
+        },
+        {
+          "client_id": "550708530895-4jh5rtfqf0sq6an178ac7djj0ombajgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.visitly",
+            "certificate_hash": "a6c70fb1a3f24ccda895a18095d12dda2c6a8216"
+          }
+        },
+        {
+          "client_id": "550708530895-k4d29gn7n7pai2f3po4c7sk2tjnj5vio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRk4nKCvzb83Ef5ENYTqupnxenpQKZraM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550708530895-k4d29gn7n7pai2f3po4c7sk2tjnj5vio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
